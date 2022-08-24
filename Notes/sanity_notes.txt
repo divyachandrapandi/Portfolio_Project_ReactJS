@@ -1,0 +1,27 @@
+OM SAI RAM
+
+// $$$$$$$$$$$$$$***********_________PORTFOLIO PROJECT____________***********************$$$$$$$$$$$$$$$$$$
+
+ USING REACTJS, SASS, SANITY
+
+// --------------------SANITY----------------------//
+
+1. npm i -g @sanity/cli
+
+2. sanity init --coupon javascriptmastery2022  
+
+3. sign in using google
+
+4. project name : portfolio_project_reactjs  --> y ---> enter --> y --> enter
+
+5. -----------COMMANDS---------------
+        sanity start - to run Sanity Studio
+        sanity docs - to open the documentation in a browser
+        sanity manage - to open the project settings in a browser
+        sanity help - to explore the CLI manual
+
+6. goto schema --> create testimonials.js --> with schema 
+
+7. goto schema --> schema.js --> import the schema for testimonials
+
+8. sanity start --> localhost:3333 ---> testimonials created in sanity 

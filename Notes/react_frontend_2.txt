@@ -1,0 +1,5 @@
+// ----------------------------FRONT END-----------------------------//
+
+1. INSTALLATION: npx create-react-app frontend_react
+
+2. 
